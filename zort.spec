@@ -8,7 +8,7 @@ License:	GPL
 Group:		Applications/Networking
 Source0:	http://dl.sourceforge.net/zort/%{name}-%{version}.tar.gz
 # Source0-md5:	823ced7234b12f81698393c2e35d75d6
-URL:		http://munin.sourceforge.net/
+URL:		http://zort.sourceforge.net/
 Requires:	webserver
 Requires:	webserver(php)
 BuildArch:	noarch
