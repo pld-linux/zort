@@ -38,7 +38,7 @@ It does not feature:
 
 
 %description -l hu.UTF-8
-Zort egy a sok web alapú RSS/Atom olvasók között. A MagpieRSS-re épül.
+Zort egy a sok web alapú RSS/Atom olvasó között. A MagpieRSS-re épül.
 Lehetőségei:
 
 - egyszerű interface
