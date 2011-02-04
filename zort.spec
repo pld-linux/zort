@@ -63,7 +63,7 @@ Group:		Applications/Networking
 %description examples
 Zort example config files.
 
-%description -l hu.UTF-8
+%description examples -l hu.UTF-8
 Zort példa konfig fájlok
 
 
